@@ -61,4 +61,7 @@ php artisan Multi:migrate tenant1
 ```
 Now you are finished ... Enjoy!
 
+# ToDo List 
+- wizard intallation 
+- Dashboard to mange Tenates 
 
