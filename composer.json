@@ -1,5 +1,5 @@
 {
-  "name": "MHNassar/MultiTenant",
+  "name": "mhnassar/multi-tenant",
   "description": "MultiTenant package / one application with multi databases schema",
   "keywords": [
     "Multi",
