@@ -1,0 +1,28 @@
+{
+  "name": "MHNassar//MultiTenant",
+  "description": "MultiTenant package / one application with multi databases schema",
+  "keywords": [
+    "Multi",
+    "databases",
+    "schema",
+    "MultiTenant",
+    "Multi Database"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mahmoud Nassar",
+      "email": "mahmoudnassar662@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "classmap": [
+    ],
+    "psr-4": {
+      "MHNassar\\MultiTenant\\": "src"
+    }
+  }
+}
